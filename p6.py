@@ -28,3 +28,8 @@ if __name__ == "__main__":
     result = sol.reverseVowels(s)
 
     print("Output:", result)
+
+
+
+
+    #leetcode 345. Reverse Vowels of a String
